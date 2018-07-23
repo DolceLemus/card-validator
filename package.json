@@ -1,7 +1,7 @@
 {
-  "name": "card-validator-demo",
+  "name": "basic-card-validator-demo",
   "version": "1.0.1",
-  "description": "",
+  "description": "El objetivo principal de la la herramienta será validar los distintos campos de una tarjeta convencional de credito tales como: numero de tarjeta, CVV, fecha de expiracion(mm/aa) y nombre del titular.",
   "main": "index.js",
   "dependencies": {
     "basic-card-validator": "^1.0.10",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/DolceLemus/card-validator.git"
   },
-  "author": "",
+  "author": "Eli <linkelin08@hotmail.com>, Dulce <dulce.lemus.lara@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DolceLemus/card-validator/issues"
