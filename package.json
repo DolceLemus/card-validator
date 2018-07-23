@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DolceLemus/card-validator-DEMO.git"
+    "url": "git+https://github.com/DolceLemus/card-validator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DolceLemus/card-validator-DEMO/issues"
+    "url": "https://github.com/DolceLemus/card-validator/issues"
   },
-  "homepage": "https://github.com/DolceLemus/card-validator-DEMO#readme",
+  "homepage": "https://github.com/DolceLemus/card-validator#readme",
   "browser": {
     "card": "./node_modules/basic-card-validator/src/card.js",
     "name": "./node_modules/basic-card-validator/src/name.js",
