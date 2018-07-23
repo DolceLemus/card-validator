@@ -14,7 +14,7 @@ btnSend.addEventListener("click",function(){
     if (isValidCard(valInputCard)=== true){
         document.getElementById("resulCard").innerHTML = " es Valido ";
     } else {
-        alert("Error");
+        document.getElementById("resulCard").innerHTML = " Invalido ";
     }
     // cvv
     let valInputCvv = document.getElementById("cvv").value;
@@ -22,7 +22,7 @@ btnSend.addEventListener("click",function(){
     if (validateNumCvv(valInputCvv)=== true){
         document.getElementById("resulCvv").innerHTML = " es Valido ";
     } else {
-        alert("Error");
+        document.getElementById("resulCvv").innerHTML = " Invalido ";
     }
 
     // name
@@ -31,7 +31,7 @@ btnSend.addEventListener("click",function(){
     if (validateName(valInputName)=== true){
         document.getElementById("resulName").innerHTML = " es Valido ";
     } else {
-        alert("Error");
+        document.getElementById("resulName").innerHTML = "Invalido ";
     }
 
     // date
@@ -41,7 +41,7 @@ btnSend.addEventListener("click",function(){
     if (dateFunct(month,year)=== true){
         document.getElementById("resulDate").innerHTML = " es Valido ";
     } else {
-        alert("Error");
+        document.getElementById("resulDate").innerHTML = " invalido ";
     }
 
 });
