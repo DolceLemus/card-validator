@@ -1,12 +1,8 @@
 {
   "name": "basic-card-validator-demo",
-  "version": "1.0.1",
+  "version": "1.0.12",
   "description": "El objetivo principal de la la herramienta será validar los distintos campos de una tarjeta convencional de credito tales como: numero de tarjeta, CVV, fecha de expiracion(mm/aa) y nombre del titular.",
   "main": "index.js",
-  "dependencies": {
-    "basic-card-validator": "^1.0.10",
-    "uniq": "^1.0.1"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
