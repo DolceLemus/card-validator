@@ -126,13 +126,7 @@ const dateFunct = (month, year) => {
   let num2DigYearTest = /^[0-9]{2}$/.test(year);
 
   // months
-  if (num2DigMonthTest === true && month < 13) {
-    return true;
-  } else {
-    return false;
-  }
-  // years
-  if (num2DigYearTest === true && year >= year2Dig) {
+  if (num2DigMonthTest === true && month < 13 && num2DigYearTest === true && year >= year2Dig) {
     return true;
   } else {
     return false;
