@@ -1,3 +1,6 @@
+# Card Validator Library
+
+
 ## Objetivo
 El objetivo principal de la la herramienta será validar los distintos campos de una tarjeta convencional de credito tales como: numero de tarjeta, CVV, fecha de expiracion(mm/aa) y nombre del titular.
 
@@ -69,3 +72,6 @@ Nota: Browserify solo es compatible con module.export de manera que nuestra libr
 
 * Utilizamos el comando (browserify main.js -o bundle.js) cada vez que deseemos utilizar el archivo bundle.js en comparación con nuestro main.js, como se muestra en el tutorial de el link anterior.
 - Utilizar el ejemplo incluido en el main.js
+
+## Elaborado para 
+[http://www.laboratoria.la/]
