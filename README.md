@@ -75,5 +75,5 @@ Nota: Browserify solo es compatible con module.export de manera que nuestra libr
 * Utilizamos el comando (browserify main.js -o bundle.js) cada vez que deseemos utilizar el archivo bundle.js en comparación con nuestro main.js, como se muestra en el tutorial de el link anterior.
 - Utilizar el ejemplo incluido en el main.js
 
-## Elaborado para 
-[http://www.laboratoria.la/]
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
