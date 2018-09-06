@@ -76,4 +76,4 @@ Nota: Browserify solo es compatible con module.export de manera que nuestra libr
 - Utilizar el ejemplo incluido en el main.js
 
 ## Elaborado para 
-[http://www.laboratoria.la/]
+(http://www.laboratoria.la/)
