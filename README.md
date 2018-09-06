@@ -4,7 +4,7 @@
 
 El objetivo principal de la herramienta es validar los distintos campos de una tarjeta convencional de credito tales como: numero de tarjeta, CVV, fecha de expiracion(mm/aa) y nombre del titular.
 
-![imagen de ejercicio](./assets/images/imagen.png)
+![imagen de ejercicio](https://user-images.githubusercontent.com/37418561/45177162-c2dabc00-b1d7-11e8-892f-6a536a4ff07d.png)
 
 ## Requerimientos del proyecto proporcionados por el cliente
 
